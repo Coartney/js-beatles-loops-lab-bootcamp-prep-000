@@ -18,5 +18,6 @@ function iLoveBeatles(n){
   var loveArray = [];
   do {
     loveArray.push(`I love the Beatles!`)
+    n++;
   } while
 }
